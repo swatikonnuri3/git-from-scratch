@@ -1,3 +1,4 @@
 Hello, this is my first Git file.
 I am learning Git from scratch.
 Git helps me track changes.
+Git is used in real companies.
