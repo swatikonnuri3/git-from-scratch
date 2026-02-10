@@ -1,0 +1,2 @@
+This file explains Git collaboration.
+Changes are made via pull requests.
