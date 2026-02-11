@@ -1,0 +1,8 @@
+# Ignore secret file
+secret.txt
+
+# Ignore log files
+*.log
+
+# Ignore temp files
+*.tmp
