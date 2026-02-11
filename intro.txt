@@ -4,3 +4,4 @@ Git helps me track changes.
 Git is used in real companies.
 This line is added from feature branch.
 This project is pushed to GitHub.
+Git is powerful and widely used in companies.
