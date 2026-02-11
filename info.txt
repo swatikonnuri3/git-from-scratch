@@ -1,2 +1,0 @@
-hiii i am ignoreing this after commiting with the help of git rm --cached filename
-  this 
