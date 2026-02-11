@@ -5,4 +5,3 @@ Git is used in real companies.
 This line is added from feature branch.
 This project is pushed to GitHub.
 Git is powerful, widely used in companies, and easy to learn.
-This is wrong data.
